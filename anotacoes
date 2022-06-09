@@ -1,0 +1,3 @@
+O que é handleSubmit?
+
+A função handleSubmit() faz duas coisas; Registra o valor atual do elemento de entrada(input) sempre que o formulário for enviado; Impede o comportamento padrão do formulário HTML de navegar para uma nova página. A linha de código abaixo também é adicionada ao construtor para ligar a função handleSubmit.
